@@ -1,6 +1,7 @@
 // This is a automated script written by Ljubomir Sinadinovski
 // The script is used in combination with Tampermonkey, the Google Chrome extension
 // Basically it refreshes the webpage until it finds valid BTC address
+// You are only required to bypass the captcha once!
 
 // ==UserScript==
 // @name         KEYS.LOL
